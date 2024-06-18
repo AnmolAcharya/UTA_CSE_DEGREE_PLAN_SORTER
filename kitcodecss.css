@@ -1,0 +1,65 @@
+.fa-graduation-cap {
+    font-size: 50px; /* Adjust size as needed */
+    color: black; /* Example color */
+    transition: transform 0.3s ease; /* Example transition */
+  }
+  
+  .fa-graduation-cap:hover {
+    transform: scale(1.2); /* Example hover effect */
+  }
+
+  .fa-star{
+    font-size: 50px; /* Adjust size as needed */
+    color: gold; /* Example color */
+    transition: transform 0.3s ease; /* Example transition */
+
+  }
+
+  .fa-star:hover {
+    transform: scale(1.2); /* Example hover effect */
+  }
+
+  .fa-circle{
+    font-size: 50px; /* Adjust size as needed */
+    color: gold; /* Example color */
+    transition: transform 0.3s ease; /* Example transition */
+
+  }
+
+  .fa-circle:hover {
+    transform: scale(1.2); /* Example hover effect */
+  }
+
+  .fa-pentagon{
+    font-size: 50px; /* Adjust size as needed */
+    color: gold; /* Example color */
+    transition: transform 0.3s ease; /* Example transition */
+
+  }
+
+  .fa-pentagon:hover {
+    transform: scale(1.2); /* Example hover effect */
+  }
+
+  .fa-diamond{
+    font-size: 50px; /* Adjust size as needed */
+    color: gold; /* Example color */
+    transition: transform 0.3s ease; /* Example transition */
+
+  }
+
+  .fa-diamond:hover {
+    transform: scale(1.2); /* Example hover effect */
+  }
+
+  .fa-question{
+    font-size: 50px; /* Adjust size as needed */
+    color: gold; /* Example color */
+    transition: transform 0.3s ease; /* Example transition */
+
+  }
+
+  .fa-question:hover {
+    transform: scale(1.2); /* Example hover effect */
+  }
+
